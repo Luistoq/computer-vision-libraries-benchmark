@@ -93,6 +93,7 @@ def torchvision_benchmark(image_file):
     tensor_image = transforms.ToTensor()(image)
     return tensor_image
 
+# Main Body
 def main():
     # User input for folder path
     folder_path = st.text_input('Enter the folder path of the image dataset:')
