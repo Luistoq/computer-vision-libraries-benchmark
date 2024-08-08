@@ -1,5 +1,5 @@
 
-# Computer Vision Library Benchmark
+# Computer Vision Libraries Benchmark
 
 This project is a benchmarking application for evaluating the performance of various Python libraries in reading and processing images. Using Streamlit, it provides an interactive interface to compare different libraries based on their image reading times.
 
