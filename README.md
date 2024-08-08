@@ -23,8 +23,8 @@ Ensure you have Conda installed. This project requires several Python libraries,
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/computer-vision-library-benchmark.git
-   cd computer-vision-library-benchmark
+   git clone https://github.com/yourusername/computer-vision-libraries-benchmark.git
+   cd computer-vision-libraries-benchmark
    ```
 
 2. **Create a Conda environment:**
